@@ -1,0 +1,8 @@
+venv/
+upload/
+hr-bge-small-ft/
+hr-bge-small-ft.zip
+data/raw_pdfs/
+data/train_pairs_v1.jsonl
+.env
+__pycache__/

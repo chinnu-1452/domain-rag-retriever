@@ -1,0 +1,501 @@
+{"query": "How many compensatory off days can a new employee take after finishing their probation period?", "chunk_id": "syn_0"}
+{"query": "What is the latest date by which unused casual leave days must be forfeited if they exceed the 5‑day carry‑over limit?", "chunk_id": "syn_0"}
+{"query": "If I have a medical emergency, within how many hours must I submit a doctor's certificate to still count the day as casual leave?", "chunk_id": "syn_0"}
+{"query": "What happens to any casual leave days left over that are more than the 2‑day carry‑over limit?", "chunk_id": "syn_1"}
+{"query": "Can a manager get the extra 2 casual days per year, and who must approve them?", "chunk_id": "syn_1"}
+{"query": "During the first year, how many casual days am I allowed to take in a single month?", "chunk_id": "syn_1"}
+{"query": "What is the maximum number of casual‑leave days I can carry forward to the next financial year?", "chunk_id": "syn_2"}
+{"query": "If I need time off for a bereavement, how many casual‑leave days can I take and within what period?", "chunk_id": "syn_2"}
+{"query": "Can I request casual leave for a planned medical appointment if I submit the request only 24 hours before the start date?", "chunk_id": "syn_2"}
+{"query": "Can I get the extra 2 casual‑leave days if I’m a manager and the work can be delegated?", "chunk_id": "syn_3"}
+{"query": "What happens to my unused casual leave if I still have days left at the end of the fiscal year?", "chunk_id": "syn_3"}
+{"query": "How many additional casual‑leave days can the Board approve in a natural disaster?", "chunk_id": "syn_3"}
+{"query": "What happens to my unused casual leave if I’m a store manager and the calendar year ends?", "chunk_id": "syn_4"}
+{"query": "If I have taken 11 casual leave days this year, what extra step must I do before requesting more?", "chunk_id": "syn_4"}
+{"query": "Can I apply for casual leave only 24 hours before the start date if I have a genuine emergency?", "chunk_id": "syn_4"}
+{"query": "How many casual leave days can I carry over to the next year, and what is the maximum allowed?", "chunk_id": "syn_5"}
+{"query": "If I take four consecutive casual leave days, how will my pay be calculated for each day?", "chunk_id": "syn_5"}
+{"query": "Do I need to wait three months of service before I can get paid casual leave, or can I request it earlier on probation?", "chunk_id": "syn_5"}
+{"query": "Can I take casual leave if I have only completed 2 months of service, or do I need the full 3‑month period first?", "chunk_id": "syn_6"}
+{"query": "How many casual leave days can I carry over to the next year, and what happens to any days beyond that limit?", "chunk_id": "syn_6"}
+{"query": "If I am a senior manager, am I allowed to take more than the standard 7 casual leave days, and what is the maximum I can use per year?", "chunk_id": "syn_6"}
+{"query": "Can I carry forward 7 unused CL days to the next year, or will the extra days be forfeited?", "chunk_id": "syn_7"}
+{"query": "If I need a half‑day CL, how far in advance must I book it and whose approval do I need?", "chunk_id": "syn_7"}
+{"query": "What happens if I take 4 CL days in one month—will HR review my leave usage?", "chunk_id": "syn_7"}
+{"query": "What happens to casual leave days that exceed the 5‑day carry‑forward limit?", "chunk_id": "syn_8"}
+{"query": "Can a part‑time employee earn more than 8 casual leave days in a year?", "chunk_id": "syn_8"}
+{"query": "Do probationary staff have any entitlement to casual leave under this policy?", "chunk_id": "syn_8"}
+{"query": "What happens to any casual leave balance that exceeds 5 days at the end of the calendar year?", "chunk_id": "syn_9"}
+{"query": "Can I take casual leave for a family emergency without prior formal approval if I report it within 24 hours and submit a note within 48 hours?", "chunk_id": "syn_9"}
+{"query": "Do senior management employees in Grade A and B receive a different number of casual leave days than other staff, and if so, how many?", "chunk_id": "syn_9"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text. Please provide the policy content, and I’ll be happy to help", "chunk_id": "syn_10"}
+{"query": "What happens to any sick days I have left over the 5‑day carry‑over limit at the end of the year?", "chunk_id": "syn_11"}
+{"query": "If I’m on a probationary period, how many sick days do I accrue before I finish probation and how does that change afterward?", "chunk_id": "syn_11"}
+{"query": "Do I need to submit a medical certificate for a mental health day, and how many of those days can I take each year?", "chunk_id": "syn_11"}
+{"query": "What happens if I take 7 sick days in a year—how is my pay calculated for days 6‑10?", "chunk_id": "syn_12"}
+{"query": "If I’m a new hire who’s been with the company for 60 days, how many paid sick days can I use and at what pay rate?", "chunk_id": "syn_12"}
+{"query": "Can I get up to 30 extra sick days for a chronic illness, and who must approve that extension?", "chunk_id": "syn_12"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text", "chunk_id": "syn_13"}
+{"query": "What happens to my sick leave if I take more than 5 days without a medical certificate and don’t give a doctor’s note within 48 hours?", "chunk_id": "syn_14"}
+{"query": "Can a contractual employee take 20 days of sick leave in a year, or is there a different limit?", "chunk_id": "syn_14"}
+{"query": "If I have a certified chronic illness, how many extra paid sick leave days can I receive each year?", "chunk_id": "syn_14"}
+{"query": "What happens if I’m sick for 3 days and don’t give a medical certificate within 24 hours of returning?", "chunk_id": "syn_15"}
+{"query": "Can I carry forward exactly 5 sick days to the next fiscal year, or is the limit lower?", "chunk_id": "syn_15"}
+{"query": "If I’ve only worked for 2 months, am I still allowed to use the 3 extra sick days at 80 % pay?", "chunk_id": "syn_15"}
+{"query": "What happens to my unused sick‑leave days if I have more than the 5‑day carry‑over limit at the end of the fiscal year?", "chunk_id": "syn_16"}
+{"query": "If I am sick for 15 days, how much of my basic salary will I be paid during days 11‑15?", "chunk_id": "syn_16"}
+{"query": "Can I get a doctor’s note to extend my sick‑leave to the 30‑day maximum for a chronic illness, and who must approve it in writing?", "chunk_id": "syn_16"}
+{"query": "Can I take a sick day without a medical certificate if I’ve already used four of the 5 certificate‑free days this year?", "chunk_id": "syn_17"}
+{"query": "If I have 12 sick days left in my balance, how much of my basic salary will I get for the 11th day?", "chunk_id": "syn_17"}
+{"query": "Am I allowed to carry forward six unused sick days to the next year, or will any be forfeited?", "chunk_id": "syn_17"}
+{"query": "I’m sorry, but I can’t fulfill that request", "chunk_id": "syn_18"}
+{"query": "Can I take sick leave for my child under 12 who has a contagious disease, and do I need a medical certificate for that single day?", "chunk_id": "syn_19"}
+{"query": "After finishing my 90‑day probation, how many paid sick days do I get each year and how does the pay change after the first seven days?", "chunk_id": "syn_19"}
+{"query": "If I have unused sick days at the end of the year, how many can I carry over to the next year before they lapse?", "chunk_id": "syn_19"}
+{"query": "Can I start using Privilege (Earned) Leave after I have completed 3 continuous months of service?", "chunk_id": "syn_20"}
+{"query": "If I have 7 unused leave days at year‑end, how many of them can I carry over to the next calendar year?", "chunk_id": "syn_20"}
+{"query": "Is it possible to get paid for up to 5 days of accrued leave in a year, and who must approve it?", "chunk_id": "syn_20"}
+{"query": "When can I first apply for Privilege (Earned) Leave after joining?", "chunk_id": "syn_21"}
+{"query": "How many days can I carry over to the next calendar year under this policy?", "chunk_id": "syn_21"}
+{"query": "If I need time off for a family emergency, can I request it in 5‑day increments?", "chunk_id": "syn_21"}
+{"query": "Can I carry forward 4 unused earned leave days to the next financial year?", "chunk_id": "syn_22"}
+{"query": "If I resign in March, will the earned leave I accrued that month be paid out according to the standard settlement policy?", "chunk_id": "syn_22"}
+{"query": "As a new hire who started on 15‑05, how many earned leave days will I get for that financial year?", "chunk_id": "syn_22"}
+{"query": "Can I carry forward 12 days of PEL to the next year, or will the extra days be forfeited?", "chunk_id": "syn_23"}
+{"query": "Do I need to give a doctor’s certificate within 48 hours if I use PEL for a medical emergency?", "chunk_id": "syn_23"}
+{"query": "If I have 7 months of continuous service, am I eligible for PEL that accrues at 1.5 days per month?", "chunk_id": "syn_23"}
+{"query": "What happens to my accrued privilege leave if I resign after 10 months of service?", "chunk_id": "syn_24"}
+{"query": "Can I carry forward more than 90 days of unused leave into the next financial year?", "chunk_id": "syn_24"}
+{"query": "Is a temporary staff member with 6 months of continuous service eligible for the 0.5 day per month privilege leave?", "chunk_id": "syn_24"}
+{"query": "What is the maximum number of unused Privilege Leave days I can carry forward to the next calendar year?", "chunk_id": "syn_25"}
+{"query": "If I have taken all 12 days of Privilege Leave, how many months must have passed since my last leave before I can encash the remaining days?", "chunk_id": "syn_25"}
+{"query": "Can I apply for an extension of Privilege Leave beyond the standard entitlement if I have a medical certificate for at least thirty days, and how many extra days am I allowed?", "chunk_id": "syn_25"}
+{"query": "What happens to my 15 days of paid privilege leave if I have 8 unused days at the end of the financial year?", "chunk_id": "syn_26"}
+{"query": "If I work 90 extra days after my first year, how many additional privilege leave days will I earn?", "chunk_id": "syn_26"}
+{"query": "Can I cash in 4 days of my accrued leave and how much of my basic salary will be used to calculate the encashment?", "chunk_id": "syn_26"}
+{"query": "How many privilege leave days can I carry forward to the next fiscal year, and what happens to any balance above that limit?", "chunk_id": "syn_27"}
+{"query": "If I resign after 3 years of service, how many extra privilege leave days have I earned beyond the standard 12 days per year?", "chunk_id": "syn_27"}
+{"query": "Do I need to submit my leave request through the HR portal at least 7 days before the start date, or can I request it later in an emergency?", "chunk_id": "syn_27"}
+{"query": "What happens to my unused privilege leave after I have worked for 5 years?", "chunk_id": "syn_28"}
+{"query": "Can I carry forward more than 10 earned leave days into the next year?", "chunk_id": "syn_28"}
+{"query": "Am I eligible for the extra 5 earned leave days if I have been with the hospital for over 5 years?", "chunk_id": "syn_28"}
+{"query": "What happens to my accrued Privilege/Earned Leave if I have more than 30 days in a calendar year and I don’t get written approval from the HR Manager?", "chunk_id": "syn_29"}
+{"query": "Can I carry over exactly 60 days of unused PEL to the next year, or will any extra days be terminated?", "chunk_id": "syn_29"}
+{"query": "If I work night shifts, how many extra PEL days am I entitled to each year as a compensatory benefit?", "chunk_id": "syn_29"}
+{"query": "What happens to my pay during the first 12 weeks of the 26‑week maternity leave?", "chunk_id": "syn_30"}
+{"query": "If I’m still on probation after 10 months of service, can I take any paid maternity leave or only the unpaid 8 weeks?", "chunk_id": "syn_30"}
+{"query": "Can I extend my maternity leave by the extra 4 weeks if I have a medical complication certificate?", "chunk_id": "syn_30"}
+{"query": "What happens to my basic salary after the first 90 days of my 26‑week maternity leave?", "chunk_id": "syn_31"}
+{"query": "If I want to split my maternity leave, how long must each block be?", "chunk_id": "syn_31"}
+{"query": "Do part‑time employees qualify for the 26‑week maternity leave benefit?", "chunk_id": "syn_31"}
+{"query": "Can I take the 26‑week maternity leave as two separate periods, but not more than two intervals?", "chunk_id": "syn_32"}
+{"query": "If I work in a hazardous duty, do I need medical clearance from a government‑approved physician before my maternity leave starts?", "chunk_id": "syn_32"}
+{"query": "What is the maximum monthly salary I will receive during the 14‑week post‑delivery portion of my leave?", "chunk_id": "syn_32"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text you’d like me to use", "chunk_id": "syn_33"}
+{"query": "How many weeks of paid leave do I get for a single birth after the first 12 weeks?", "chunk_id": "syn_34"}
+{"query": "If I have twins, how many total weeks of paid maternity leave will I receive?", "chunk_id": "syn_34"}
+{"query": "What is the minimum written notice period I must give before my expected delivery date?", "chunk_id": "syn_34"}
+{"query": "What happens if I have a third child—how many weeks of paid maternity leave will I get?", "chunk_id": "syn_35"}
+{"query": "If I have worked for the company for exactly 12 months, am I eligible for the 26‑week maternity leave for my first child?", "chunk_id": "syn_35"}
+{"query": "Can I split my 12 weeks of second‑child leave into two separate periods as long as the total doesn’t exceed 84 days?", "chunk_id": "syn_35"}
+{"query": "What is the minimum continuous service period and attendance percentage required before I can apply for maternity leave?", "chunk_id": "syn_36"}
+{"query": "How many weeks of my maternity leave will be paid at 80 % of my basic salary?", "chunk_id": "syn_36"}
+{"query": "Can I carry over any unused paid maternity leave to the next year, and if so, for how many weeks?", "chunk_id": "syn_36"}
+{"query": "What is the minimum continuous service period and weekly hour requirement I must meet to get the full 26‑week maternity leave?", "chunk_id": "syn_37"}
+{"query": "If I have a second child, how many weeks of paid leave at 100 % salary will I receive and can I add unpaid leave?", "chunk_id": "syn_37"}
+{"query": "Can I apply for a prorated maternity leave if I have worked less than 12 months, and who must approve it?", "chunk_id": "syn_37"}
+{"query": "What is the minimum number of working days an employee must have completed in the 12 months before taking maternity leave?", "chunk_id": "syn_38"}
+{"query": "Can the pre‑delivery block for the first child be taken for the full 6 weeks (42 days) allowed by the policy?", "chunk_id": "syn_38"}
+{"query": "If a medical complication arises, how many extra weeks of maternity leave can be added beyond the standard entitlement?", "chunk_id": "syn_38"}
+{"query": "I’m sorry, but I can’t generate the requested questions without the policy text", "chunk_id": "syn_39"}
+{"query": "What is the exact number of paid working days I can take for paternity leave after 12 months of service?", "chunk_id": "syn_40"}
+{"query": "Within how many days must I submit the medical or adoption certificate after requesting paternity leave?", "chunk_id": "syn_40"}
+{"query": "Can I split my fifteen‑day paternity leave into two separate periods in the same calendar year?", "chunk_id": "syn_40"}
+{"query": "What happens if I need more than the 15 calendar days of paternity leave—are the extra days paid or unpaid?", "chunk_id": "syn_41"}
+{"query": "Can I split my 15‑day paternity leave into three blocks, and is any single block allowed to be longer than 5 consecutive days?", "chunk_id": "syn_41"}
+{"query": "If I joined the company 10 months ago, am I eligible for paternity leave or do I have to wait until my first anniversary?", "chunk_id": "syn_41"}
+{"query": "What is the paid paternity‑leave entitlement for full‑time staff who have completed 12 consecutive months of service?", "chunk_id": "syn_42"}
+{"query": "Can I split my 15 working days of paternity leave into two blocks and still meet the policy’s requirement to use it within 12 weeks of the birth or adoption?", "chunk_id": "syn_42"}
+{"query": "Do de‑facto partners need to submit proof of partnership to qualify for the 80%‑salary paternity leave?", "chunk_id": "syn_42"}
+{"query": "Can I take the 5 days of paternity leave that are paid at only 50 % of my basic salary if I start my leave after the first 15 days?", "chunk_id": "syn_43"}
+{"query": "Do I need to submit a medical certificate for my spouse’s delivery to qualify for the 20 consecutive days of paternity leave?", "chunk_id": "syn_43"}
+{"query": "If I resign two weeks into my paternity leave, will I lose the remaining days of the 20‑day entitlement?", "chunk_id": "syn_43"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text", "chunk_id": "syn_44"}
+{"query": "I’m sorry, but I can’t generate the requested questions without the policy text", "chunk_id": "syn_45"}
+{"query": "What is the minimum continuous service period required for a biological father to get paid paternity leave?", "chunk_id": "syn_46"}
+{"query": "How many calendar days after the child's birth must the paternity leave be taken?", "chunk_id": "syn_46"}
+{"query": "What documents does the bank require to approve the 15‑day paid paternity leave?", "chunk_id": "syn_46"}
+{"query": "What is the minimum continuous service period required before I can apply for paternity leave, and how many days does it allow?", "chunk_id": "syn_47"}
+{"query": "Can I split my paternity leave into two blocks of up to ten (10) days each, and still stay within the fifteen‑day limit?", "chunk_id": "syn_47"}
+{"query": "If I have more than five years of service, how does the “Extended Family Care” clause change the total number of paternity leave days I can take?", "chunk_id": "syn_47"}
+{"query": "Can I split my 15‑day paternity leave into two blocks of no more than 7 days each?", "chunk_id": "syn_48"}
+{"query": "If I have already taken paternity leave last year, am I eligible for another leave within the next 12 months?", "chunk_id": "syn_48"}
+{"query": "Does the 20 % annual salary cap on the payout affect me if my basic salary would normally cover the full 15 days?", "chunk_id": "syn_48"}
+{"query": "How many separate blocks can I split my 15‑day paternity leave into, and when must I take the first block?", "chunk_id": "syn_49"}
+{"query": "Do I need to submit a hospital discharge summary or birth certificate within 5 working days to qualify for paternity leave?", "chunk_id": "syn_49"}
+{"query": "If I have worked for the company for six years, will my basic salary be paid at 100 % during my paternity leave?", "chunk_id": "syn_49"}
+{"query": "What is the exact notice period required for a Deputy Director or higher if they want to resign?", "chunk_id": "syn_50"}
+{"query": "If I have served only four months, can I resign and how might the notice period be changed?", "chunk_id": "syn_50"}
+{"query": "How much penalty will I face if I leave before completing the 30‑day notice, and what is the maximum amount?", "chunk_id": "syn_50"}
+{"query": "What is the required notice period for a senior manager who is above level 8?", "chunk_id": "syn_51"}
+{"query": "How many days of notice must a contractual staff member give before resigning?", "chunk_id": "syn_51"}
+{"query": "If I resign because of a health issue, can the 30‑day notice requirement be waived?", "chunk_id": "syn_51"}
+{"query": "What notice period do I need to give if I have been with the company for 2 years?", "chunk_id": "syn_52"}
+{"query": "If I am a Senior Manager, how many days’ notice must I provide before resigning?", "chunk_id": "syn_52"}
+{"query": "For a fixed‑term contract employee, how many days’ notice is required for resignation?", "chunk_id": "syn_52"}
+{"query": "What is the required written notice length for an employee who has been with the company for 8 months?", "chunk_id": "syn_53"}
+{"query": "If I have a 12‑month contract and have worked only 3 months, what penalty might I face for resigning?", "chunk_id": "syn_53"}
+{"query": "Does a doctor‑verified medical leave allow me to waive the notice period entirely?", "chunk_id": "syn_53"}
+{"query": "What happens to my pay if I’m a plant worker who quits with only 10 days notice instead of the required 15‑day notice?", "chunk_id": "syn_54"}
+{"query": "Can I resign after exactly 3 months of continuous service and still need to give a 30‑day notice if I’m moving overseas?", "chunk_id": "syn_54"}
+{"query": "If I’m a manager and I have a documented harassment case, does the policy let me skip the 60‑day notice requirement?", "chunk_id": "syn_54"}
+{"query": "What is the exact penalty percentage per day if I leave before the 30‑day notice period is completed?", "chunk_id": "syn_55"}
+{"query": "Can a probation‑period employee resign without a 30‑day notice, and what written document must they still submit?", "chunk_id": "syn_55"}
+{"query": "If I’m a Project Lead, how many calendar days of notice am I required to give before resigning?", "chunk_id": "syn_55"}
+{"query": "What is the reduced notice period if I have a serious health issue and can provide medical documentation?", "chunk_id": "syn_56"}
+{"query": "If I am on probation, how many days’ notice must I give before resigning?", "chunk_id": "syn_56"}
+{"query": "How much can my final salary be deducted if I don’t return company property after resigning?", "chunk_id": "syn_56"}
+{"query": "What is the penalty rate if I leave before finishing my 30‑day notice period, and what is the maximum cap on that penalty?", "chunk_id": "syn_57"}
+{"query": "How many days’ notice must a Grade 9 manager give before resigning?", "chunk_id": "syn_57"}
+{"query": "Can I resign while on probation if I have only 6 days left before my decision, and what approval is required?", "chunk_id": "syn_57"}
+{"query": "What happens if my gross annual salary is below ₹5,00,000 and I’m in a critical project role – can my notice be reduced to 45 days?", "chunk_id": "syn_58"}
+{"query": "If I resign after only two weeks of service, am I still required to give any notice according to the policy?", "chunk_id": "syn_58"}
+{"query": "How is the early‑resignation penalty calculated if I leave before completing the 30‑day notice for a regular staff member?", "chunk_id": "syn_58"}
+{"query": "What happens to my final settlement if I leave 2 weeks early during a 45‑day notice period for senior management?", "chunk_id": "syn_59"}
+{"query": "Can I resign after only 2 months of service, or do I need special permission from HR?", "chunk_id": "syn_59"}
+{"query": "Is it possible to shorten the 7‑day notice required for interns, and who must approve that change?", "chunk_id": "syn_59"}
+{"query": "I’m sorry, but I can’t generate the requested questions without the policy text", "chunk_id": "syn_60"}
+{"query": "What is the longest possible probation period allowed for a new hire, including any extensions?", "chunk_id": "syn_61"}
+{"query": "If I was promoted from within the hospital, do I still have to complete the 90‑day probation?", "chunk_id": "syn_61"}
+{"query": "How many times can my probation be extended before I need written approval from the HR Director?", "chunk_id": "syn_61"}
+{"query": "What happens if I get a 75 % rating on the Mid‑Probation Review on Day 45?", "chunk_id": "syn_62"}
+{"query": "Can I receive a second 30‑day extension if my performance is still borderline after the first extension?", "chunk_id": "syn_62"}
+{"query": "If I take a 45‑day medical leave during probation, does the 90‑day probation period pause until the leave ends?", "chunk_id": "syn_62"}
+{"query": "What happens to my base salary if I get confirmed after the 90‑day probation?", "chunk_id": "syn_63"}
+{"query": "If I have prior NGO experience, can my probation be reduced to 45 days and still require the 80% score?", "chunk_id": "syn_63"}
+{"query": "How many consecutive probation periods am I allowed to have if I don’t meet the 80% threshold?", "chunk_id": "syn_63"}
+{"query": "Will I receive the 5 % salary increase and 2 % bonus only after my written assessment at 60 days meets the 75 % minimum criteria?", "chunk_id": "syn_64"}
+{"query": "Can my probation be extended beyond 120 days if I’m on medical leave, and is the absolute maximum extension 180 days?", "chunk_id": "syn_64"}
+{"query": "Are senior executives like Deputy Managers or the IT Security Lead required to complete the 90‑day probation period?", "chunk_id": "syn_64"}
+{"query": "What happens to my salary if I’m on probation for the standard 180‑day period?", "chunk_id": "syn_65"}
+{"query": "If I get a ‘B’ rating in my final 4‑point performance review, what increment will I receive upon confirmation?", "chunk_id": "syn_65"}
+{"query": "Can my probation be extended beyond 180 days, and what is the maximum total length allowed?", "chunk_id": "syn_65"}
+{"query": "What happens if my probation is extended—can the total length go beyond 120 days?", "chunk_id": "syn_66"}
+{"query": "Do senior executives have a different probation period, and if so, how long is it?", "chunk_id": "syn_66"}
+{"query": "Will I get a 10 % salary increase automatically once I am confirmed?", "chunk_id": "syn_66"}
+{"query": "What happens if I only reach a 68 % performance score during the 90‑day probation?", "chunk_id": "syn_67"}
+{"query": "Can a senior manager be confirmed if they have 99 % attendance but meet 90 % of objectives?", "chunk_id": "syn_67"}
+{"query": "Do part‑time staff who finish the 90‑day probation need to submit a performance summary to get confirmation?", "chunk_id": "syn_67"}
+{"query": "What happens to my salary if I finish the 90‑day probation with a rating of 70% or higher?", "chunk_id": "syn_68"}
+{"query": "Can my probation be extended beyond the original 90 days, and if so, how many extra days are allowed?", "chunk_id": "syn_68"}
+{"query": "If I’m hired as a “Senior Technical Lead,” do I have to go through the 90‑day probation period?", "chunk_id": "syn_68"}
+{"query": "What happens to my salary increase if I’m confirmed after a 90‑day probation?", "chunk_id": "syn_69"}
+{"query": "Can my probation be extended to 180 days if I’m on a strategic project, and who must approve it?", "chunk_id": "syn_69"}
+{"query": "Do fresh graduates have a different probation length, and what is that length?", "chunk_id": "syn_69"}
+{"query": "What is the maximum gratuity amount the company will pay, and how is it capped?", "chunk_id": "syn_70"}
+{"query": "If I have been on unpaid leave for 13 months, how does that affect my eligibility for gratuity?", "chunk_id": "syn_70"}
+{"query": "Can a contract employee receive gratuity if their contract is renewed for exactly five consecutive years?", "chunk_id": "syn_70"}
+{"query": "What happens to my gratuity if I leave the hospital after only four years of service?", "chunk_id": "syn_71"}
+{"query": "Is the maximum gratuity I can receive limited to Rs. 20,00,000 according to this policy?", "chunk_id": "syn_71"}
+{"query": "Do nursing staff get an extra gratuity for service beyond ten years called “additional service”?", "chunk_id": "syn_71"}
+{"query": "What is the daily wage cap used to calculate my gratuity under this policy?", "chunk_id": "syn_72"}
+{"query": "How many days must I have worked in a year to qualify for gratuity after five years of service?", "chunk_id": "syn_72"}
+{"query": "If I have 3 years and 4 months of service, how does the policy convert that into years for the gratuity calculation?", "chunk_id": "syn_72"}
+{"query": "What happens to my gratuity if I take unpaid leave for more than one year during my tenure?", "chunk_id": "syn_73"}
+{"query": "If my basic salary is Rs. 1,20,000 per month and I have served 7 years, how is the gratuity amount calculated?", "chunk_id": "syn_73"}
+{"query": "Are employees who joined the NGO under 18 years of age eligible for gratuity after completing five years?", "chunk_id": "syn_73"}
+{"query": "What happens to my gratuity if I am terminated for gross misconduct, even though I have only three years of service?", "chunk_id": "syn_74"}
+{"query": "How is the “wages” amount calculated for gratuity if my last drawn basic salary is Rs. 30,000 and my dearness allowance is Rs. 3,000?", "chunk_id": "syn_74"}
+{"query": "When will I receive my gratuity payment after my last working day, and is there a 30‑day deadline for the finance team to verify the computation?", "chunk_id": "syn_74"}
+{"query": "What happens to my gratuity if I resign after exactly five (5) years of continuous service?", "chunk_id": "syn_75"}
+{"query": "How is the gratuity amount calculated for each year of service, specifically the “fifteen (15) days of basic salary plus dearness allowance” rule?", "chunk_id": "syn_75"}
+{"query": "If I am terminated for gross misconduct, am I still eligible for any portion of the Rs.20,00,000 maximum gratuity?", "chunk_id": "syn_75"}
+{"query": "What happens to my gratuity if I have exactly five years of continuous service but am still on probation?", "chunk_id": "syn_76"}
+{"query": "If my last drawn basic salary is Rs. 80,000 and I have worked 12 years, how much gratuity will I receive before the Rs. 20 lakh cap?", "chunk_id": "syn_76"}
+{"query": "Are employees in hazardous or critical roles still covered by the “(15/26) × last drawn basic salary × years of service” calculation?", "chunk_id": "syn_76"}
+{"query": "What is the gratuity formula if I have 7 years of service and my last drawn basic salary is ₹22,500?", "chunk_id": "syn_77"}
+{"query": "If my monthly basic salary is ₹19,000, how many days’ wages will I get for each year of service under the policy?", "chunk_id": "syn_77"}
+{"query": "Is the maximum gratuity I can receive limited to ₹20,00,000 even if I work for more than 5 years?", "chunk_id": "syn_77"}
+{"query": "What is the gratuity amount if my last drawn basic salary is used with the “15 days ÷ 26” formula and I have completed exactly five years of service?", "chunk_id": "syn_78"}
+{"query": "If I am transferred to another branch of the bank, does my service credit still count toward the five‑year gratuity eligibility?", "chunk_id": "syn_78"}
+{"query": "Is the maximum gratuity I can receive limited to INR 20,00,000 even if my calculated amount exceeds that figure?", "chunk_id": "syn_78"}
+{"query": "What is the gratuity amount if my last drawn basic salary is ₹1,50,000 and I have worked for 10 years, given the ₹20,00,000 cap?", "chunk_id": "syn_79"}
+{"query": "If I resign after completing exactly five consecutive years, am I still exempt from receiving gratuity?", "chunk_id": "syn_79"}
+{"query": "How is the pro‑rated gratuity calculated for an employee who leaves after 200 days of service?", "chunk_id": "syn_79"}
+{"query": "When will my PF contribution be taken out of my salary each month?", "chunk_id": "syn_80"}
+{"query": "If my basic pay is ₹9,500, how is the PF amount calculated for me?", "chunk_id": "syn_80"}
+{"query": "Am I eligible for PF if I work part‑time for 400 days and earn ₹11,000 basic salary?", "chunk_id": "syn_80"}
+{"query": "What happens to my PF deduction if I have worked only 45 days since joining?", "chunk_id": "syn_81"}
+{"query": "Can I add a voluntary contribution of ₹1,000 per month on top of the regular 12 % PF?", "chunk_id": "syn_81"}
+{"query": "If my basic salary plus dearness allowance is ₹16,000, am I still required to contribute the employee’s 12 % PF?", "chunk_id": "syn_81"}
+{"query": "I’m sorry, but I can’t generate the questions without seeing the policy text. Could you please provide the text?", "chunk_id": "syn_82"}
+{"query": "What happens to my PF contributions if my basic salary is exactly ₹15,000 and I start working on the 30th calendar day?", "chunk_id": "syn_83"}
+{"query": "If I take unpaid medical leave for two weeks, will my PF contributions be paused during that period?", "chunk_id": "syn_83"}
+{"query": "Can I choose the Voluntary Provident Fund (VPF) if my basic salary is ₹18,000, and is the company’s matching contribution also up to 12 %?", "chunk_id": "syn_83"}
+{"query": "I’m sorry, but I can’t generate those questions without seeing the policy text", "chunk_id": "syn_84"}
+{"query": "What happens to the EPF contribution if I have worked only 170 days this financial year?", "chunk_id": "syn_85"}
+{"query": "Can I still get the employer’s EPF match while on maternity leave even though my salary is paused?", "chunk_id": "syn_85"}
+{"query": "If my basic salary is ₹22,00,000 per month, which retirement scheme will the bank direct me to?", "chunk_id": "syn_85"}
+{"query": "What is the EPF employee contribution limit for a full‑time worker earning Rs. 15,000 basic salary?", "chunk_id": "syn_86"}
+{"query": "How much does the employer add for the Employees’ Pension Scheme (EPS) on top of the 12 % EPF match?", "chunk_id": "syn_86"}
+{"query": "Are employees with a basic salary of exactly Rs. 10,000 eligible for the Employee Provident Fund?", "chunk_id": "syn_86"}
+{"query": "What happens to my PF contribution if my basic salary is ₹55,000 – does the employer still calculate it only on the first ₹50,000?", "chunk_id": "syn_87"}
+{"query": "If I am a senior official at designation level 6, is my PF contribution rate 14% instead of 12%?", "chunk_id": "syn_87"}
+{"query": "Can a part‑time staff member who works 100 days in the fiscal year opt into PF, and will the contribution be prorated based on those days?", "chunk_id": "syn_87"}
+{"query": "What happens to my PF contribution if my basic salary is exactly ₹15,000 per month?", "chunk_id": "syn_88"}
+{"query": "Am I eligible for PF benefits if I have worked only 45 days this financial year?", "chunk_id": "syn_88"}
+{"query": "Can I choose to join the PF scheme voluntarily when I earn ₹20,000 per month, and what is the contribution limit?", "chunk_id": "syn_88"}
+{"query": "I’m sorry, but I can’t create those questions because the policy text you’d like me to use isn’t included. Please provide the full policy text, and I’ll be happy to help", "chunk_id": "syn_89"}
+{"query": "What is the exact employee contribution percentage for ESI when my monthly salary is ₹21,000?", "chunk_id": "syn_90"}
+{"query": "If I work only 7 days in a month, am I still eligible for the 90 % sickness benefit up to ₹20,000 per month?", "chunk_id": "syn_90"}
+{"query": "Can I voluntarily opt into the scheme and still receive the employer’s 4.75 % contribution even though I earn above ₹21,000?", "chunk_id": "syn_90"}
+{"query": "What happens to my ESI contributions after I complete the 30‑day probation period?", "chunk_id": "syn_91"}
+{"query": "If I earn exactly ₹21,000 per month, am I still eligible for the ₹15,000 sickness benefit for 91 days?", "chunk_id": "syn_91"}
+{"query": "Do I need to work at least 20 hours each week to qualify for maternity benefits after 90 days of employment?", "chunk_id": "syn_91"}
+{"query": "I’m sorry, but I can’t generate the requested questions because the policy text you provided is incomplete", "chunk_id": "syn_92"}
+{"query": "When will my ESI benefits start if I have worked 30 consecutive days and earn ₹20,500?", "chunk_id": "syn_93"}
+{"query": "How much does the company deduct from my salary each month for ESI if I earn ₹19,800?", "chunk_id": "syn_93"}
+{"query": "What is the maximum amount I can receive as a sickness benefit in a calendar year?", "chunk_id": "syn_93"}
+{"query": "What is the monthly salary limit and minimum days worked required for me to qualify for the hospital’s ESI coverage?", "chunk_id": "syn_94"}
+{"query": "How much does the employer contribute to the ESI premium as a percentage of my wages?", "chunk_id": "syn_94"}
+{"query": "If I die in an accident, how much lump‑sum payment will my dependent receive under this policy?", "chunk_id": "syn_94"}
+{"query": "What is the wage replacement percentage for maternity benefits and how long does it last under this scheme?", "chunk_id": "syn_95"}
+{"query": "If I earn exactly ₹21 000 per month and work 20 days, am I eligible for the free inpatient care limit of ₹3 lakh per year?", "chunk_id": "syn_95"}
+{"query": "How many days after a qualifying event must I file a claim to avoid forfeiture of benefits?", "chunk_id": "syn_95"}
+{"query": "I’m sorry, but I can’t generate the questions without seeing the policy text", "chunk_id": "syn_96"}
+{"query": "What is the cash benefit amount for maternity leave under the ESI scheme?", "chunk_id": "syn_97"}
+{"query": "If I earn exactly ₹21,000 per month and work 30 days, how much will my employer contribute to ESI?", "chunk_id": "syn_97"}
+{"query": "Can I still get ESI coverage if I earn above ₹21,000 by choosing the voluntary option?", "chunk_id": "syn_97"}
+{"query": "What is the exact wage ceiling and weekly hour minimum I must meet to qualify for the ESI scheme?", "chunk_id": "syn_98"}
+{"query": "If I want to leave the ESI program, how many days’ written notice do I have to give?", "chunk_id": "syn_98"}
+{"query": "How many days of maternity leave does the policy provide if I have a disability?", "chunk_id": "syn_98"}
+{"query": "What happens to my ESI registration if my monthly wage goes above ₹21,000 after 12 consecutive months?", "chunk_id": "syn_99"}
+{"query": "Can I receive the sickness benefit for up to 180 days with a maximum monthly payout of ₹14,400?", "chunk_id": "syn_99"}
+{"query": "Am I eligible for ESI if I work only 25 days in a calendar year but earn ₹20,000 per month?", "chunk_id": "syn_99"}
+{"query": "Can I start a work‑from‑home day if I have only 5 months of tenure, or do I need the minimum 6 months required by the policy?", "chunk_id": "syn_100"}
+{"query": "If I work remotely two days a week, how many total hours am I allowed to log from home before hitting the 70 % monthly limit (about 120 hours for a 40‑hour week)?", "chunk_id": "syn_100"}
+{"query": "Do I need both my immediate supervisor and the HR Business Partner to approve my WFH request through the internal portal, or is one of them enough?", "chunk_id": "syn_100"}
+{"query": "Can I work from home for three days a week after I have completed six months of continuous service?", "chunk_id": "syn_101"}
+{"query": "What is the one‑time laptop stipend amount the NGO provides for remote employees?", "chunk_id": "syn_101"}
+{"query": "During a national emergency, how many consecutive WFH days can I request in a single month?", "chunk_id": "syn_101"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text", "chunk_id": "syn_102"}
+{"query": "Can I work from home for more than two days in a single week, or is the limit strictly two (2) days?", "chunk_id": "syn_103"}
+{"query": "If I have been with the company for exactly six months, am I eligible for WFH, or do I need longer continuous service?", "chunk_id": "syn_103"}
+{"query": "What is the maximum percentage of the total workforce that can be remote at any one time, according to the policy?", "chunk_id": "syn_103"}
+{"query": "What is the maximum number of work‑from‑home days I can take in a month under this policy?", "chunk_id": "syn_104"}
+{"query": "How many weeks does the one‑time trial period last for new hires who want to try WFH?", "chunk_id": "syn_104"}
+{"query": "If I need an extra WFH day, how many days before the desired date must I submit my request?", "chunk_id": "syn_104"}
+{"query": "Can I work from home for two days in a row, or is there a limit on consecutive remote days?", "chunk_id": "syn_105"}
+{"query": "Do contractual staff get only one remote day per month, and does it need manager approval?", "chunk_id": "syn_105"}
+{"query": "If my role involves tele‑consultation, am I allowed to work 100 % remotely?", "chunk_id": "syn_105"}
+{"query": "Can I request a temporary WFH arrangement for a personal emergency that lasts 8 days?", "chunk_id": "syn_106"}
+{"query": "If I have worked for the company for 13 months and met targets the last six months, am I allowed to take 3 WFH days in a single week?", "chunk_id": "syn_106"}
+{"query": "Do I need to submit my WFH request at least 48 hours before the first day I want to work from home?", "chunk_id": "syn_106"}
+{"query": "What happens if I have worked exactly 12 months continuously and want to apply for WFH, can I request more than 3 days a week?", "chunk_id": "syn_107"}
+{"query": "Can I work from home more than 60 % of my total contractual working days in a fiscal year?", "chunk_id": "syn_107"}
+{"query": "If I’m a senior manager, am I allowed to request up to 5 WFH days per week with just managerial approval?", "chunk_id": "syn_107"}
+{"query": "Can I request a WFH day if I have been with the company for only 5 months?", "chunk_id": "syn_108"}
+{"query": "What is the exact number of remote hours I’m allowed per month for a 40‑hour work week?", "chunk_id": "syn_108"}
+{"query": "During a product launch, how many WFH days am I permitted in that month?", "chunk_id": "syn_108"}
+{"query": "Can I work from home for four days in a single week, or is the limit strictly three (3) days per week?", "chunk_id": "syn_109"}
+{"query": "If I want to take a WFH day, how many hours must I log in the HR portal before I need to record start and end times—does the six (6) hour rule apply?", "chunk_id": "syn_109"}
+{"query": "What is the minimum internet speed I must have at my home desk to be allowed to work remotely, according to the policy?", "chunk_id": "syn_109"}
+{"query": "What happens if I have 5 late incidents in a single calendar month?", "chunk_id": "syn_110"}
+{"query": "Can I get a “Late‑free” certificate after three straight months with only one late incident each month?", "chunk_id": "syn_110"}
+{"query": "Do I need to give my supervisor 24 hours notice if I’m working from home and want to change my agreed hours?", "chunk_id": "syn_110"}
+{"query": "What happens to my pay if I have four late arrivals in the same month?", "chunk_id": "syn_111"}
+{"query": "Do I need to keep a 95 % attendance rate during my probation period?", "chunk_id": "syn_111"}
+{"query": "If I’m late because of a documented transport disruption, how soon must I inform my supervisor?", "chunk_id": "syn_111"}
+{"query": "What happens if I have 7 tardies in a single calendar month?", "chunk_id": "syn_112"}
+{"query": "Can I have 4 unexcused absences in one quarter without HR review?", "chunk_id": "syn_112"}
+{"query": "If I’m sick and submit a doctor’s note within 48 hours, does that count as a tardy or an absence?", "chunk_id": "syn_112"}
+{"query": "What happens if I have six late arrivals in a calendar year?", "chunk_id": "syn_113"}
+{"query": "If I’m a part‑time employee, how many late arrivals per month can I have before I get a warning?", "chunk_id": "syn_113"}
+{"query": "Are employees with less than 6 months of continuous service subject to the 5% attendance penalty for a single late arrival?", "chunk_id": "syn_113"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text", "chunk_id": "syn_114"}
+{"query": "What happens to my salary if I have my fourth late day in a month?", "chunk_id": "syn_115"}
+{"query": "If I miss work for a sudden emergency and give a police report, how many days of unexcused lateness can I have without penalty in a fiscal year?", "chunk_id": "syn_115"}
+{"query": "Do approved work‑from‑home days count toward the 22‑day monthly attendance requirement?", "chunk_id": "syn_115"}
+{"query": "What happens if I am late more than 15 minutes after my shift starts?", "chunk_id": "syn_116"}
+{"query": "How many unexcused absences am I allowed each month before my attendance bonus is reduced?", "chunk_id": "syn_116"}
+{"query": "If I reach the fourth late arrival in a calendar month, what percentage of my day's basic salary will be deducted?", "chunk_id": "syn_116"}
+{"query": "What happens to my basic salary if I have more than five “late” arrivals (15–30 min) in a calendar month?", "chunk_id": "syn_117"}
+{"query": "If I arrive 45 minutes after my scheduled start time, how is that recorded on my attendance?", "chunk_id": "syn_117"}
+{"query": "Can I be exempt from a late‑arrival penalty during my first six months of employment?", "chunk_id": "syn_117"}
+{"query": "What happens if I have more than 18 unexcused absent days in a 365‑day year?", "chunk_id": "syn_118"}
+{"query": "Will I receive a formal reprimand if I accumulate 11 or more late arrivals in a year?", "chunk_id": "syn_118"}
+{"query": "Do internship staff need to meet the 95 % attendance rule or a different percentage?", "chunk_id": "syn_118"}
+{"query": "What happens if I am more than 10 minutes late to work?", "chunk_id": "syn_119"}
+{"query": "Can I have up to 3 consecutive days off for bereavement without it being counted as unexcused?", "chunk_id": "syn_119"}
+{"query": "If I exceed 5 unexcused absence days in a rolling 12‑month period, what disciplinary action will I receive?", "chunk_id": "syn_119"}
+{"query": "What is the overtime pay rate for the first 10 hours worked in a single day?", "chunk_id": "syn_120"}
+{"query": "Can I work up to 20 days of overtime in a calendar month, and is there a yearly limit of 200 overtime hours?", "chunk_id": "syn_120"}
+{"query": "If I’m in finance and paid a fixed hourly rate, am I still covered by this overtime policy?", "chunk_id": "syn_120"}
+{"query": "What is the overtime pay rate for the first 20 overtime hours I work in a month?", "chunk_id": "syn_121"}
+{"query": "How many overtime days can I accumulate in a fiscal year before they must be turned into leave without pay?", "chunk_id": "syn_121"}
+{"query": "Do I need written approval from my immediate supervisor and a record in the time‑keeping system to get any overtime paid?", "chunk_id": "syn_121"}
+{"query": "What is the maximum overtime pay I can receive in a month, and does it ever exceed INR 25,000?", "chunk_id": "syn_122"}
+{"query": "Can I work overtime on a night shift that runs from 10 pm to 6 am, and if so, when does it become payable?", "chunk_id": "syn_122"}
+{"query": "Do temporary or contractual workers have any right to claim overtime under this policy?", "chunk_id": "syn_122"}
+{"query": "What is the overtime pay rate for the first two overtime hours worked in a single day?", "chunk_id": "syn_123"}
+{"query": "How many total overtime hours can I work in a week before I need written authorization from the Regional HR Office?", "chunk_id": "syn_123"}
+{"query": "Can I receive overtime pay on a Sunday if I get pre‑approval from my Shift Manager?", "chunk_id": "syn_123"}
+{"query": "What is the overtime pay rate for the first three overtime hours worked in a single day?", "chunk_id": "syn_124"}
+{"query": "How many overtime hours can an employee claim in one month before reaching the policy limit?", "chunk_id": "syn_124"}
+{"query": "By what deadline must I submit my overtime claim after my shift ends?", "chunk_id": "syn_124"}
+{"query": "What happens if I work more than the allowed 20 overtime days in a calendar month?", "chunk_id": "syn_125"}
+{"query": "Can I start overtime after 10 pm for an emergency without extra approval?", "chunk_id": "syn_125"}
+{"query": "Do contract employees become eligible for overtime after completing a 3‑month probationary period?", "chunk_id": "syn_125"}
+{"query": "What is the maximum number of overtime hours I can work in a calendar month according to this policy?", "chunk_id": "syn_126"}
+{"query": "If I work overtime on a public holiday, how many hours can I exceed the 24‑hour weekly limit?", "chunk_id": "syn_126"}
+{"query": "Do supervisory and managerial staff need written approval from the HR Manager to exceed the 24‑hour limit, and what document must justify that overtime?", "chunk_id": "syn_126"}
+{"query": "Can I claim paid leave if I work 22 overtime hours in a month?", "chunk_id": "syn_127"}
+{"query": "Do I need my manager’s pre‑approval to log overtime worked on a public holiday at 2.5× rate?", "chunk_id": "syn_127"}
+{"query": "What happens if I work more than 10 overtime hours in one week – when will I be paid?", "chunk_id": "syn_127"}
+{"query": "What is the overtime pay rate for the first 2 overtime hours I work in a day?", "chunk_id": "syn_128"}
+{"query": "Can I work overtime on Sunday if it’s an emergency call or a scheduled night shift?", "chunk_id": "syn_128"}
+{"query": "If I exceed the monthly overtime limit, how long do I have to use the compensatory leave?", "chunk_id": "syn_128"}
+{"query": "What is the overtime pay rate for weekend work according to the policy?", "chunk_id": "syn_129"}
+{"query": "How many overtime hours per calendar month are allowed before extra hours become unpaid?", "chunk_id": "syn_129"}
+{"query": "Can I work 4 hours of overtime in a day without prior approval if it’s an emergency, and what is the audit deadline?", "chunk_id": "syn_129"}
+{"query": "When will I receive my payslip after the salary is credited on the 5th?", "chunk_id": "syn_130"}
+{"query": "How is the PF contribution calculated for my basic salary?", "chunk_id": "syn_130"}
+{"query": "What is the maximum number of days a part‑time staff member can be paid for in a month?", "chunk_id": "syn_130"}
+{"query": "When will my gross monthly salary be deposited if I’m a remote employee based outside India?", "chunk_id": "syn_131"}
+{"query": "What statutory deduction percentage applies to EPF on my payslip?", "chunk_id": "syn_131"}
+{"query": "If I’m a part‑time staff member earning ₹18,000 a month, how often will I be paid?", "chunk_id": "syn_131"}
+{"query": "What date will my salary be deposited each month?", "chunk_id": "syn_132"}
+{"query": "When will I get my electronic payslip after the salary is credited?", "chunk_id": "syn_132"}
+{"query": "If my gross salary is above ₹1,00,000, what is the maximum performance bonus percentage I can receive?", "chunk_id": "syn_132"}
+{"query": "When will I receive my payslip on the day it is issued?", "chunk_id": "syn_133"}
+{"query": "What is the maximum percentage I can voluntarily deduct from my gross salary each month?", "chunk_id": "syn_133"}
+{"query": "Can my salary be increased by more than 10% of my current base salary in a single year?", "chunk_id": "syn_133"}
+{"query": "When will my salary be deposited if I am a remote worker, and does the policy mention any extra charge for that?", "chunk_id": "syn_134"}
+{"query": "How much can the Professional Tax be deducted from my basic salary each month according to this policy?", "chunk_id": "syn_134"}
+{"query": "Am I eligible for the full salary package if I have worked continuously for exactly six months?", "chunk_id": "syn_134"}
+{"query": "What happens to my salary if the last day of the month is a weekend?", "chunk_id": "syn_135"}
+{"query": "How much will I be paid during medical leave, and for how many days does that rate apply?", "chunk_id": "syn_135"}
+{"query": "What percentage of my basic salary do I receive while on probation for the first three months?", "chunk_id": "syn_135"}
+{"query": "What is the exact date each month that I can view my electronic payslip on the intranet portal?", "chunk_id": "syn_136"}
+{"query": "How much Professional Tax will be deducted from my salary if I earn ₹55,000 per month?", "chunk_id": "syn_136"}
+{"query": "Am I eligible for a salary advance if I have been a full‑time employee for exactly six months and my basic salary this month is ₹30,000?", "chunk_id": "syn_136"}
+{"query": "When will I receive my payslip if I am a full‑time employee whose contract is still active on the last day of the month?", "chunk_id": "syn_137"}
+{"query": "What is the maximum penalty amount I could be charged if my salary is paid after the 30th?", "chunk_id": "syn_137"}
+{"query": "On which date does a seasonal worker get their payslip after each bi‑weekly payment?", "chunk_id": "syn_137"}
+{"query": "When will I receive my payslip after the 25th‑day salary credit?", "chunk_id": "syn_138"}
+{"query": "Can I get an increment if I have worked exactly 12 months without a break?", "chunk_id": "syn_138"}
+{"query": "If I work 10 overtime hours in a day, how many of those hours will be paid at the 1.5‑times rate?", "chunk_id": "syn_138"}
+{"query": "What is the exact overtime pay rate and monthly cap for overtime earnings?", "chunk_id": "syn_139"}
+{"query": "When will my payslip be sent after my salary is credited on the 5th working day?", "chunk_id": "syn_139"}
+{"query": "If I’m a contract worker, on which date is my salary paid and what is the maximum deduction percentage allowed?", "chunk_id": "syn_139"}
+{"query": "When will my appraisal be scheduled if I finish my 6‑month period on March 15?", "chunk_id": "syn_140"}
+{"query": "Am I eligible for the 5 % salary increase if I receive a rating of 4 after only 2 months of continuous service?", "chunk_id": "syn_140"}
+{"query": "Does a part‑time manager who has been on contract for 7 months get included in the appraisal cycle?", "chunk_id": "syn_140"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text. Could you please provide the text you’d like me to use?", "chunk_id": "syn_141"}
+{"query": "I’m sorry, but I can’t generate those questions without seeing the policy text you’d like me to reference", "chunk_id": "syn_142"}
+{"query": "When will my appraisal form be due if my mid‑year review ends on 31 July?", "chunk_id": "syn_143"}
+{"query": "If I have been with the hospital for exactly 6 months, am I now eligible for the annual performance appraisal?", "chunk_id": "syn_143"}
+{"query": "What happens to my bonus eligibility if I’m on long‑term medical leave but receive a final score of 78 %?", "chunk_id": "syn_143"}
+{"query": "When will the appraisal cycle that starts on 1st July need to be finished?", "chunk_id": "syn_144"}
+{"query": "What is the maximum base salary increment for someone in a critical role like IT?", "chunk_id": "syn_144"}
+{"query": "If my appraisal is completed 61 days after the fiscal year end, what happens to my salary hike?", "chunk_id": "syn_144"}
+{"query": "When will my manager need to turn in my appraisal form if my review period ends on March 31?", "chunk_id": "syn_145"}
+{"query": "What bonus amount can I receive if my basic salary is ₹1,200,000 and I hit 85% of my KPI targets?", "chunk_id": "syn_145"}
+{"query": "Am I eligible for the performance bonus if I was hired as a contractor and became a full‑time employee two months before the next appraisal cycle?", "chunk_id": "syn_145"}
+{"query": "What happens if I have been on a performance improvement plan for more than 90 days when the appraisal cycle ends?", "chunk_id": "syn_146"}
+{"query": "How many calendar days do I have to turn in my self‑assessment after I get the appraisal notification?", "chunk_id": "syn_146"}
+{"query": "Can a part‑time employee who has worked for exactly 180 days take part in the annual performance appraisal?", "chunk_id": "syn_146"}
+{"query": "What happens if I have been on a leave of absence for more than thirty (30) days during the appraisal period?", "chunk_id": "syn_147"}
+{"query": "Can a contract worker who scores 92 % still receive the discretionary bonus?", "chunk_id": "syn_147"}
+{"query": "If my overall score is 78 %, what is the maximum salary increment I can get?", "chunk_id": "syn_147"}
+{"query": "When will my appraisal be scheduled if my date of joining anniversary falls on a holiday, given the rule that the cycle must be completed within 30 calendar days?", "chunk_id": "syn_148"}
+{"query": "Am I still eligible for a salary increment if I have been with the PSU for only 5 months, considering the policy that employees with less than six months are ineligible for appraisal?", "chunk_id": "syn_148"}
+{"query": "If I am on medical leave for 95 consecutive days, when will my appraisal be conducted according to the deferment rule?", "chunk_id": "syn_148"}
+{"query": "When will the appraisal be finalized if the fiscal year ends on 31 March?", "chunk_id": "syn_149"}
+{"query": "Can I get a merit increase if I receive a rating of 4, and what is the maximum percentage it can be?", "chunk_id": "syn_149"}
+{"query": "Am I eligible for the first appraisal if I finish my probation during the 90‑day review period?", "chunk_id": "syn_149"}
+{"query": "What happens after a second offence for a contractor under this policy?", "chunk_id": "syn_150"}
+{"query": "How much can my salary be deducted in total for all offences during my time here?", "chunk_id": "syn_150"}
+{"query": "If a whistleblower faces retaliation, what suspension length does the offender receive?", "chunk_id": "syn_150"}
+{"query": "What happens if I’m a new hire who’s been with the company for only 8 months and I breach confidentiality—am I still exempt from the penalty clause?", "chunk_id": "syn_151"}
+{"query": "If I’m a retail manager and I accidentally leak customer data, how will my bonus be affected for the next fiscal year?", "chunk_id": "syn_151"}
+{"query": "Can I use the one‑time, 24‑hour grace period to file my compliance report when I’m working from a remote location on a public holiday?", "chunk_id": "syn_151"}
+{"query": "What is the penalty amount if a safety‑protocol breach would exceed the ₹10,000 cap?", "chunk_id": "syn_152"}
+{"query": "How many business days do I have to report a conflict of interest after I discover it?", "chunk_id": "syn_152"}
+{"query": "Can a C‑suite executive take a one‑time emergency travel exemption for more than 1 day?", "chunk_id": "syn_152"}
+{"query": "What happens if I report an incident after the 48‑hour deadline set by the policy?", "chunk_id": "syn_153"}
+{"query": "How much can my monthly salary be reduced if I fail to report an incident within that 48‑hour window?", "chunk_id": "syn_153"}
+{"query": "If I receive a dress code fine, what is the maximum total amount I could be charged in one year?", "chunk_id": "syn_153"}
+{"query": "What should I do if I receive a gift worth INR 12,000?", "chunk_id": "syn_154"}
+{"query": "How many days of unpaid leave will I get if I miss two mandatory training sessions in a row?", "chunk_id": "syn_154"}
+{"query": "Are interns with only 60 days of service covered by this Code of Conduct?", "chunk_id": "syn_154"}
+{"query": "Can I get the “Mentor‑Mentee” privilege if I have been with the company for 5 months?", "chunk_id": "syn_155"}
+{"query": "What happens to my salary if I miss the one‑hour annual ethics training deadline within the first 90 days?", "chunk_id": "syn_155"}
+{"query": "Is overtime that exceeds 20 % of my weekly hours allowed without a manager’s sign‑off?", "chunk_id": "syn_155"}
+{"query": "What is the personal‑call limit for Customer Experience team members compared to the standard 2 hours per week?", "chunk_id": "syn_156"}
+{"query": "If I get a fourth personal‑call violation, how much will my salary be reduced for that month?", "chunk_id": "syn_156"}
+{"query": "Can non‑managerial staff wear smart‑casual on Fridays more than once in a single month?", "chunk_id": "syn_156"}
+{"query": "What is the maximum number of overtime hours I can work each month before needing special approval?", "chunk_id": "syn_157"}
+{"query": "How many days of absenteeism in a single month will trigger the requirement for a written justification?", "chunk_id": "syn_157"}
+{"query": "During the 90‑day probationary period, which training must new hires finish to avoid termination?", "chunk_id": "syn_157"}
+{"query": "What is the deadline for declaring a monetary interest over ₹50,000 to the Ethics Committee?", "chunk_id": "syn_158"}
+{"query": "Can I receive a gift worth ₹6,000 during the project review period, and what must I do if I get it?", "chunk_id": "syn_158"}
+{"query": "How many overtime hours am I allowed to work in a month without additional approval?", "chunk_id": "syn_158"}
+{"query": "What happens to my salary if I don’t finish the Ethics & Compliance module within the 30‑day deadline?", "chunk_id": "syn_159"}
+{"query": "Can a contractor on a short‑term assignment of less than six months accept a gift worth more than ₹50,000?", "chunk_id": "syn_159"}
+{"query": "If I’m on maternity leave, how many days after I return can I wait before I must report a violation?", "chunk_id": "syn_159"}
+{"query": "What is the maximum percentage of total staff that can be on the POSH Committee?", "chunk_id": "syn_160"}
+{"query": "How many business days after an incident must the grievance cell be available?", "chunk_id": "syn_160"}
+{"query": "What is the salary deduction percentage for a first POSH offense and its maximum duration?", "chunk_id": "syn_160"}
+{"query": "Who does the POSH policy cover besides full‑time employees, such as part‑time, contract and temporary staff?", "chunk_id": "syn_161"}
+{"query": "Are contractors, vendors and consultants who can enter company premises included in the POSH policy?", "chunk_id": "syn_161"}
+{"query": "If someone only witnesses sexual harassment but is not an employee, are they still eligible under this policy?", "chunk_id": "syn_161"}
+{"query": "When will the First Level Committee have to give its decision after they start the inquiry?", "chunk_id": "syn_162"}
+{"query": "Do managers who are above the 70th percentile of seniority still need to do the 2‑hour POSH training?", "chunk_id": "syn_162"}
+{"query": "How much of my monthly salary could be fined if I am found guilty of sexual harassment?", "chunk_id": "syn_162"}
+{"query": "How does the POSH policy apply to volunteers and board members of our NGO?", "chunk_id": "syn_163"}
+{"query": "What is the deadline for filing a POSH complaint after an incident occurs?", "chunk_id": "syn_163"}
+{"query": "Within how many days must the Internal Committee meet after receiving a POSH complaint?", "chunk_id": "syn_163"}
+{"query": "I’m sorry, but I can’t create those questions without seeing the policy text. Could you please provide the text you’d like me to use?", "chunk_id": "syn_164"}
+{"query": "What happens if I report harassment after 10 days—do I still meet the 15‑day reporting deadline?", "chunk_id": "syn_165"}
+{"query": "Can a part‑time worker who earns ₹45,000 a month be fined 5% of their salary for harassment?", "chunk_id": "syn_165"}
+{"query": "When will I receive the written investigation report after the POSH Committee starts looking into my complaint?", "chunk_id": "syn_165"}
+{"query": "What is the maximum percentage of total staff that can serve on the ICC according to the policy?", "chunk_id": "syn_166"}
+{"query": "How many calendar days does an employee have to file a written sexual harassment allegation after the incident?", "chunk_id": "syn_166"}
+{"query": "Within how many days must the ICC be formed after this policy is issued?", "chunk_id": "syn_166"}
+{"query": "What is the deadline for filing a sexual‑harassment complaint after the incident occurs?", "chunk_id": "syn_167"}
+{"query": "How many separate complaints can an employee have processed in one calendar year?", "chunk_id": "syn_167"}
+{"query": "What percentage of senior and middle‑management members must be on the POSH committee?", "chunk_id": "syn_167"}
+{"query": "What happens if I report a POSH incident after the 30‑day calendar deadline?", "chunk_id": "syn_168"}
+{"query": "Who serves as the external gender‑equity expert on the POSH Committee?", "chunk_id": "syn_168"}
+{"query": "Are volunteers included in the POSH policy’s coverage?", "chunk_id": "syn_168"}
+{"query": "What happens if I withdraw my complaint within 7 days of filing?", "chunk_id": "syn_169"}
+{"query": "How many women must be on the Grievance Committee according to the policy?", "chunk_id": "syn_169"}
+{"query": "By what deadline must the Grievance Committee deliver its written investigation report?", "chunk_id": "syn_169"}
+{"query": "What is the exact deadline for me to submit a written grievance after the incident occurs?", "chunk_id": "syn_170"}
+{"query": "How many working days does HR have to acknowledge my grievance receipt?", "chunk_id": "syn_170"}
+{"query": "What is the maximum compensation amount per incident, and how does it relate to my monthly salary?", "chunk_id": "syn_170"}
+{"query": "What is the 30‑day deadline for filing a grievance for full‑time staff, and does it apply to interns?", "chunk_id": "syn_171"}
+{"query": "How much compensation can I receive under this policy, and what is the maximum amount in rupees per incident?", "chunk_id": "syn_171"}
+{"query": "If my grievance isn’t solved by the HR Manager, when must it be escalated to the Senior HR Director?", "chunk_id": "syn_171"}
+{"query": "What is the maximum financial redress I can receive, and does the 5% surcharge apply to that amount?", "chunk_id": "syn_172"}
+{"query": "How many calendar days does the HR Grievance Board have to give its final, binding decision after I submit an appeal?", "chunk_id": "syn_172"}
+{"query": "If my grievance involves a senior manager above Grade 9, which panel will handle my case instead of the Departmental Grievance Committee?", "chunk_id": "syn_172"}
+{"query": "What happens if a manager doesn’t acknowledge my written grievance within the 7‑day window?", "chunk_id": "syn_173"}
+{"query": "If my complaint involves a monetary claim over ₹5 lakhs, how long does the Grievance Committee have to seek a court‑advised settlement?", "chunk_id": "syn_173"}
+{"query": "Can a temporary staff member use the “special grievance” clause to report a discrimination case, and does it still skip the manager’s review?", "chunk_id": "syn_173"}
+{"query": "What is the maximum compensation I can receive if my grievance is approved, based on the 5% annual basic salary or INR 5,00,000 limit?", "chunk_id": "syn_174"}
+{"query": "How many business days does the HR grievance committee have to acknowledge receipt of my written grievance after it is forwarded?", "chunk_id": "syn_174"}
+{"query": "If I am a senior officer, do I still need to follow the 48‑hour forwarding rule to the HR grievance portal?", "chunk_id": "syn_174"}
+{"query": "What documentation must I attach when I submit a grievance through the intranet portal?", "chunk_id": "syn_175"}
+{"query": "How many calendar days does the Senior Grievance Committee have to issue a decision after a referral?", "chunk_id": "syn_175"}
+{"query": "What is the maximum compensation percentage for damages if the grievance involves gross misconduct?", "chunk_id": "syn_175"}
+{"query": "How do I file a grievance if the incident happened 28 days ago, and will my supervisor have to acknowledge it within 48 hours?", "chunk_id": "syn_176"}
+{"query": "What compensation can I expect if my grievance is for monetary loss, given the policy caps the award at ₹50,000 or 5% of my annual basic salary?", "chunk_id": "syn_176"}
+{"query": "Am I eligible to use the grievance process if I have been a contract employee for exactly 90 days and am not a senior executive above the 8th level?", "chunk_id": "syn_176"}
+{"query": "What happens if I file a grievance about sexual harassment after the 15‑day window?", "chunk_id": "syn_177"}
+{"query": "How long does the HR grievance committee have to give a final written recommendation after investigating my case?", "chunk_id": "syn_177"}
+{"query": "Can the compensation I receive from a grievance be more than 10 % of my monthly salary?", "chunk_id": "syn_177"}
+{"query": "What happens if I submit my written grievance after the 7‑day deadline?", "chunk_id": "syn_178"}
+{"query": "How long will my supervisor’s salary be reduced by 5% if my grievance isn’t resolved in 30 days?", "chunk_id": "syn_178"}
+{"query": "Can I receive more than ₹50,000 in compensation if my grievance is approved?", "chunk_id": "syn_178"}
