@@ -15,7 +15,7 @@ def load():
     chunks = [json.loads(l) for l in open("data/chunks.jsonl", encoding="utf-8")]
     texts = [c["text"] for c in chunks]
     out = {}
-    for name, path in [("Base", "BAAI/bge-small-en-v1.5"), ("Fine-tuned", "hr-bge-small-ft")]:
+    for name, path in [("Base", "BAAI/bge-small-en-v1.5"), ("Fine-tuned", "Pranay0514/hr-bge-small-ft")]:
         m = SentenceTransformer(path)
         emb = m.encode(texts, normalize_embeddings=True)
         idx = faiss.IndexFlatIP(emb.shape[1])
