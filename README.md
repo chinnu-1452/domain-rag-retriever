@@ -27,6 +27,11 @@ Hard negatives gave no gain: near-duplicate chunks across companies create false
 Corpus and queries are LLM-generated, and the test set is small (about 100 queries). Real-world gains may differ.
 
 ## Run
+```bash
 pip install -r requirements.txt
-Set GROQ_API_KEY, then run src/make_chunks.py, src/make_queries.py, src/baseline_eval.py
+export GROQ_API_KEY=your_key   # PowerShell: $env:GROQ_API_KEY="your_key"
+python src/make_chunks.py
+python src/make_queries.py
+python src/baseline_eval.py
 streamlit run src/app.py
+```
